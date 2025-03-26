@@ -15,7 +15,7 @@ some ideas:
 ![count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Henryers)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github)](https://github.com/Henryers)
 [![CSDN](https://img.shields.io/badge/CSDN-ff6600?logo=csdn&logoColor=white)](https://blog.csdn.net/mydaily_)
-[![Email](https://img.shields.io/badge/Email-000000?logo=gmail)](waste_200401@qq.com)
+[![Email](https://img.shields.io/badge/Email-66aaff?logo=gmail)](waste_200401@qq.com)
 [![Bilibili](https://img.shields.io/badge/B站-FF69B4?logo=bilibili&logoColor=white)](https://space.bilibili.com/441076921)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Henryers&show_icons=true&theme=radical)
