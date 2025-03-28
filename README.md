@@ -29,4 +29,4 @@ Still a beginner in programming and need to constantly strive to move forward.
 ## 🏆 Honor and Awards
 
 - 🥇 2024 *China Undergraduate Mathematical Contest in Modeling* (guangdong Province, [GitHub](https://github.com/Henryers/mathmodel-24B))
-- 🥈 2024 *Lan Qiao China Collegiate Programming Contest - Python Programming* (National, Top 13%)
+- 🥈 2024 *Lan Qiao China Collegiate Programming Contest - Java Programming* (National, Top 13%)
