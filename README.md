@@ -19,7 +19,6 @@ some ideas:
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?logo=bilibili&logoColor=white)](https://space.bilibili.com/441076921)
 
 ![My github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Henryers&show_icons=true&theme=radical)
-![My github stats](https://github-readme-stats-git-masterrstaa-rickstaa/vercel.app/api?username=Henryers&show_icons=true&theme=radical)
 
 
 
